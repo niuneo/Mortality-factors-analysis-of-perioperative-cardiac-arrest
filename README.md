@@ -6,8 +6,6 @@ NA*: not available
 
 ![image](https://user-images.githubusercontent.com/14986457/134747524-d1237380-fb9a-462d-9ce4-bc68866b176d.png)
 
-![image](https://user-images.githubusercontent.com/14986457/134747588-7f48cd64-e0c7-4026-a0c2-219130acbdbf.png)
-
 ![image](https://user-images.githubusercontent.com/14986457/137534914-8e0ed960-2ae7-4f3d-8ef4-267c19fb3e3d.png)
 
 ![image](https://user-images.githubusercontent.com/14986457/133413754-34f5b747-7fc8-41a3-a514-6f4ac046a1c2.png)
