@@ -5,6 +5,7 @@ date: "July 21, 2021"
 output:
   html_document:
     df_print: paged
+  word_document: default
 ---
 
 ```{r setup, include=FALSE}
